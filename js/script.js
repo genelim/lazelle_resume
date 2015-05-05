@@ -1,8 +1,10 @@
 $(document).ready(function() {
-	$('.parallax').parallax();
+	
 	/* Load Pages */
+	$("#about").load("about.html"); 
 	$("#education").load("education.html"); 
 	$("#experience").load("experience.html"); 
+	$("#contact").load("contact.html"); 
 	/*Nav Menu Scrolling Navigating */
 	$('a').each( function() {
 	    var a_tag = $(this);
@@ -15,5 +17,6 @@ $(document).ready(function() {
 			    }, 200);  
 	    	}
 	    });
-	});  
+	}); 
+	$('.parallax').parallax(); 
 });
