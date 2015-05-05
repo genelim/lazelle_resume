@@ -8,7 +8,7 @@
 }
 
 .home-title{
-  	  font-size: 72px;
+  font-size: 72px;
   font-weight: 700;
   margin-bottom: 15px;
   text-transform: uppercase;
@@ -21,10 +21,18 @@
 }
 
 #experience{
-      padding: 7em 0;
+  padding: 7em 0;
 }
 
 .education_title{
+  font-weight: 700;
+  color: #333;
+  text-transform: uppercase;
+  padding-top: 1.78rem;
+  margin-top:0;
+}
+
+.contact_title{
   font-weight: 700;
   color: #333;
   text-transform: uppercase;

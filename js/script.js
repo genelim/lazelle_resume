@@ -1,4 +1,5 @@
 $(document).ready(function() {
+	$('.parallax').parallax();
 	/* Load Pages */
 	$("#education").load("education.html"); 
 	$("#experience").load("experience.html"); 
