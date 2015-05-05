@@ -1,0 +1,37 @@
+.title{
+	
+  font-weight: 700;
+  color: #FFF;
+  text-transform: uppercase;
+  padding-top: 1.78rem;
+  margin-top:0;
+}
+
+.home-title{
+	  font-size: 72px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+color:#fff;
+}
+
+.white a{
+	color: #ea80fc !important;
+}
+
+#experience{
+    padding: 7em 0;
+}
+
+.education_title{
+	
+  font-weight: 700;
+  color: #333;
+  text-transform: uppercase;
+  padding-top: 1.78rem;
+  margin-top:0;
+}
+
+#education{
+    padding: 7em 0;
+}
