@@ -1,5 +1,4 @@
 $(document).ready(function() {
-	
 	/* Load Pages */
 	$("#about").load("about.html"); 
 	//$("#education").load("education.html"); 
