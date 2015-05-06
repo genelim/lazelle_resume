@@ -1,8 +1,7 @@
 $(document).ready(function() {
-	
 	/* Load Pages */
 	$("#about").load("about.html"); 
-	$("#education").load("education.html"); 
+	//$("#education").load("education.html"); 
 	$("#experience").load("experience.html"); 
 	$("#contact").load("contact.html"); 
 	/*Nav Menu Scrolling Navigating */
